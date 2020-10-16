@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+nav{
+   display: inline-block;
+   padding: Center;
+}
+.leftColumn{
+    width: 29%;
+    float: left;
+    background-color: aqua;
+}
+.main{
+    width: 70%;
+    float: left;
+    background-color: blueviolet;
+}
